@@ -1,0 +1,1 @@
+Get random quotes from quote on desgin API
